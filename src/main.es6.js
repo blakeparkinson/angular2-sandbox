@@ -1,7 +1,7 @@
 import {Component, View, bootstrap} from 'angular2/angular2';
 
 @Component({
-  selector: 'ng2-sandbox'
+  selector: 'greeting'
 })
 @View({
   template: `
